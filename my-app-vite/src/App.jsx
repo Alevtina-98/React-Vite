@@ -1,11 +1,11 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+// import { useState } from "react";
+// import reactLogo from "./assets/react.svg";
+// import viteLogo from "/vite.svg";
 import "./App.css";
 import catStepan from "./assets/cat-stepan.jpg";
 
 function App() {
-  const [count, setCount] = useState(0);
+  // const [count, setCount] = useState(0);
 
   return (
     <>
@@ -29,6 +29,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p> */}
+      <h2>Hello World</h2>
       <p>
         Stepan, born in 2008, is a Ukrainian striped cat who gained worldwide
         popularity on social media for his calm nature and jaded posture.
